@@ -1,29 +1,29 @@
 {
   "normal_inputs": {
-    "additional_sources/ds/lab/4d/main.cpp": "5\n",
-    "additional_sources/ds/lab/link list s.cpp": "2\n",
-    "additional_sources/ds/lab/main.cpp": "5\n",
-    "additional_sources/ds/lab/menu link list/link list d.cpp": "1\n5\n1\n7\n2\n3\n",
-    "additional_sources/pf/lab/f2023376179/main.cpp": "5\n",
-    "additional_sources/pf/lab/lab 3/main.cpp": "25 70 1.75\n",
-    "additional_sources/pf/lab/practice/aiisgnment 2/main.cpp": "3 2 4 9\n",
-    "additional_sources/pf/lab/practice/array/main.cpp": "42\n",
-    "additional_sources/pf/lab/practice/assg5/main.cpp": "29 2 2024\n",
-    "additional_sources/pf/lab/practice/assig 3/main.cpp": "7 2\n",
-    "additional_sources/pf/lab/practice/assig2/main.cpp": "300 60\n",
-    "additional_sources/pf/lab/practice/main.cpp": "18\n",
-    "additional_sources/pf/lab/practice/pf lab tssk/main.cpp": "4 -2 3 -4 5\n",
-    "additional_sources/pf/lab/practice/q 1/main.cpp": "90 90 90 90 90\n",
-    "additional_sources/pf/lab/practice/switch/main.cpp": "3\n",
-    "assignment/main.cpp": "42\n",
-    "assignment/3.cpp": "12\n",
-    "assignment/ass.cpp": "12\n",
-    "additional_sources/pf/lab/practice/swictch.cpp": "18\n",
+    "additional_sources/ds/examples/4d/main.cpp": "5\n",
+    "additional_sources/ds/examples/link list s.cpp": "2\n",
+    "additional_sources/ds/examples/main.cpp": "5\n",
+    "additional_sources/ds/examples/menu link list/link list d.cpp": "1\n5\n1\n7\n2\n3\n",
+    "additional_sources/pf/examples/imad/main.cpp": "5\n",
+    "additional_sources/pf/examples/examples 3/main.cpp": "25 70 1.75\n",
+    "additional_sources/pf/examples/practice/numeric-patterns/main.cpp": "3 2 4 9\n",
+    "additional_sources/pf/examples/practice/array/main.cpp": "42\n",
+    "additional_sources/pf/examples/practice/calendar-day/main.cpp": "29 2 2024\n",
+    "additional_sources/pf/examples/practice/integer-arithmetic/main.cpp": "7 2\n",
+    "additional_sources/pf/examples/practice/item-cost/main.cpp": "300 60\n",
+    "additional_sources/pf/examples/practice/main.cpp": "18\n",
+    "additional_sources/pf/examples/practice/pf examples tssk/main.cpp": "4 -2 3 -4 5\n",
+    "additional_sources/pf/examples/practice/q 1/main.cpp": "90 90 90 90 90\n",
+    "additional_sources/pf/examples/practice/switch/main.cpp": "3\n",
+    "components/main.cpp": "42\n",
+    "components/3.cpp": "12\n",
+    "components/double-integer.cpp": "12\n",
+    "additional_sources/pf/examples/practice/swictch.cpp": "18\n",
     "pharmacy/main.cpp": "1 2 2\n"
   },
   "boundary_cases": [
     {
-      "file": "additional_sources/ds/lab/4d/main.cpp",
+      "file": "additional_sources/ds/examples/4d/main.cpp",
       "case": [
         "--self-test"
       ],
@@ -31,157 +31,157 @@
       "passed": true
     },
     {
-      "file": "additional_sources/ds/lab/4d/main.cpp",
-      "case": "3 1 3 2 1\nFirst Student\n1 A\n1\nSecond Student\n2 B\n3 3 1 2 3 2 2 5\n",
+      "file": "additional_sources/ds/examples/4d/main.cpp",
+      "case": "3 1 3 2 1\nFirst Record\n1 A\n1\nSecond Record\n2 B\n3 3 1 2 3 2 2 5\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/array/main.cpp",
+      "file": "additional_sources/pf/examples/practice/array/main.cpp",
       "case": "99\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/array/main.cpp",
+      "file": "additional_sources/pf/examples/practice/array/main.cpp",
       "case": "22\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/array/main.cpp",
+      "file": "additional_sources/pf/examples/practice/array/main.cpp",
       "case": "93\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assig 3/main.cpp",
+      "file": "additional_sources/pf/examples/practice/integer-arithmetic/main.cpp",
       "case": "7 0\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assig 3/main.cpp",
+      "file": "additional_sources/pf/examples/practice/integer-arithmetic/main.cpp",
       "case": "-2147483648 -1\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assig2/main.cpp",
+      "file": "additional_sources/pf/examples/practice/item-cost/main.cpp",
       "case": "300 60\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assig2/main.cpp",
+      "file": "additional_sources/pf/examples/practice/item-cost/main.cpp",
       "case": "100 101\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assg5/main.cpp",
+      "file": "additional_sources/pf/examples/practice/calendar-day/main.cpp",
       "case": "29 2 1900\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assg5/main.cpp",
+      "file": "additional_sources/pf/examples/practice/calendar-day/main.cpp",
       "case": "29 2 2000\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assg5/main.cpp",
+      "file": "additional_sources/pf/examples/practice/calendar-day/main.cpp",
       "case": "31 12 2024\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/assg5/main.cpp",
+      "file": "additional_sources/pf/examples/practice/calendar-day/main.cpp",
       "case": "1 13 2024\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "25 70 0\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "19 70 1.75\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 73.96 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 74.0 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 99.96 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 100 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 119.96 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/lab 3/main.cpp",
+      "file": "additional_sources/pf/examples/examples 3/main.cpp",
       "case": "30 120 2\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/q 1/main.cpp",
+      "file": "additional_sources/pf/examples/practice/q 1/main.cpp",
       "case": "91 91 91 90 90\n",
       "expected_exit": 0,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/q 1/main.cpp",
+      "file": "additional_sources/pf/examples/practice/q 1/main.cpp",
       "case": "101 0 0 0 0\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/aiisgnment 2/main.cpp",
+      "file": "additional_sources/pf/examples/practice/numeric-patterns/main.cpp",
       "case": "0\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/pf lab tssk/main.cpp",
+      "file": "additional_sources/pf/examples/practice/pf examples tssk/main.cpp",
       "case": "2 9223372036854775807 2\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/pf lab tssk/main.cpp",
+      "file": "additional_sources/pf/examples/practice/pf examples tssk/main.cpp",
       "case": "2 -9223372036854775808 -1\n",
       "expected_exit": 1,
       "passed": true
     },
     {
-      "file": "additional_sources/pf/lab/practice/pf lab tssk/main.cpp",
+      "file": "additional_sources/pf/examples/practice/pf examples tssk/main.cpp",
       "case": "2 -9223372036854775808 0\n",
       "expected_exit": 0,
       "passed": true

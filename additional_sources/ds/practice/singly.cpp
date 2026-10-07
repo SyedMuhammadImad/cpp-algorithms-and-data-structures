@@ -1,4 +1,4 @@
-// Completed coursework variant; assisted repair of the local draft.
+// Completed project variant; assisted repair of the local draft.
 #include <iostream>
 #include <cassert>
 struct node{int data;node* next;explicit node(int val):data(val),next(nullptr){}};

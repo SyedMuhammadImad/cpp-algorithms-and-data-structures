@@ -1,4 +1,4 @@
-// Coursework completion repair; original local draft is retained.
+// project completion repair; original local draft is retained.
 #include <iostream>
 #include <iomanip>
 int main(){

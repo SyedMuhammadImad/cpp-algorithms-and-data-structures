@@ -1,5 +1,5 @@
 #define main example_main
-#include "../additional_sources/ds/practice/dsa theory lab task.cpp"
+#include "../additional_sources/ds/practice/dsa theory examples task.cpp"
 #undef main
 #include <cassert>
 #include <sstream>

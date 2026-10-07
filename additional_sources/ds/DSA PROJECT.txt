@@ -1,5 +1,5 @@
 Question-1:
-Syed Muhammad Imad (F2023376179)
+Syed Muhammad Imad (Syed Muhammad Imad)
 Car Parking Management System:
 
 #include <iostream>

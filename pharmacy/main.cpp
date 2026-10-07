@@ -1,4 +1,4 @@
-// Completed coursework variant; input/edge-case repair.
+// Completed project variant; input/edge-case repair.
 #include <iostream>
 #include <iomanip>
 #include <cmath>

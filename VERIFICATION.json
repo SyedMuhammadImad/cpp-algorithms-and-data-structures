@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "project": "cpp-programming-coursework",
-  "completion_scope": "academic project or finished document; not a production certification",
+  "project": "cpp-algorithms-and-data-structures",
+  "completion_scope": "experimental project or finished document; not a production certification",
   "checks": [
     {
       "name": "55 standalone examples and four property-check programs compile with C++17 and run successfully",
@@ -12,11 +12,11 @@
       "passed": true
     },
     {
-      "name": "20,000 seeded stack/queue operations per property test; parking and 1,000-record student list boundaries",
+      "name": "20,000 seeded stack/queue operations per property test; parking and 1,000-record record list boundaries",
       "passed": true
     }
   ],
   "limitations": [
-    "Academic console programs, not real billing/clinical systems. Fresh verification on Windows/MinGW only."
+    "experimental console programs, not real billing/clinical systems. Fresh verification on Windows/MinGW only."
   ]
 }

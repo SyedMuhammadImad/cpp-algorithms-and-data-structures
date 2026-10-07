@@ -1,4 +1,4 @@
-// Completed coursework; empty, singleton, capacity and input boundaries repaired.
+// Completed project; empty, singleton, capacity and input boundaries repaired.
 #include <iostream>
 #include <array>
 #include <stdexcept>

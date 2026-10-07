@@ -4,7 +4,7 @@ root=pathlib.Path(__file__).resolve().parent
 compiler=shutil.which('g++')
 if not compiler:raise SystemExit('Install a C++17 compiler and put g++ on PATH')
 checks=json.loads((root/'test_cases.json').read_text());executables={}
-with tempfile.TemporaryDirectory(prefix='coursework-check-') as temp:
+with tempfile.TemporaryDirectory(prefix='project-check-') as temp:
  out=pathlib.Path(temp)
  for i,source in enumerate(sorted(root.rglob('*.cpp'))):
   rel=source.relative_to(root).as_posix();exe=out/(str(i)+('.exe' if os.name=='nt' else ''))

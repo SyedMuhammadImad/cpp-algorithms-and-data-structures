@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "title": "C and C++ console programming coursework",
+  "date": "2026-10-08",
+  "title": "C and C++ console programming project",
   "completion_gate_passed": true,
   "files": [
     {
@@ -10,38 +10,38 @@
     },
     {
       "path": "README.md",
-      "sha256": "241a8c464382321e8b4a1c7f10b6e7a36e17f52a23147663e704a205f68cf602",
-      "bytes": 7746
+      "sha256": "2bdbde5eb9a5764c1adc843dd8e3e91f84a54a9084a382e1f3795acb9a07a92a",
+      "bytes": 8142
     },
     {
       "path": "test_cases.json",
-      "sha256": "5def336ebeaf034505cbe9812c0a62cdac30b61970987d6546141099a496d17b",
-      "bytes": 6279
+      "sha256": "003701dfd99dd30d71f29d288345b15d7946b327be3983e331bd099c076ced7d",
+      "bytes": 6646
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "2685cb84fdc35f6f55446de6e72231dac58af418dad8fc7b69c8a719ae3101d7",
-      "bytes": 782
+      "sha256": "74b7b29998a53aee3a37e34a63304c7cfd73a30635da6680a5923aa9b19faea7",
+      "bytes": 797
     },
     {
       "path": "verify.py",
-      "sha256": "905482c8aeef96402fe86b68a25e1190c48b99e1b6e3e31839ef695087df22ca",
-      "bytes": 1694
+      "sha256": "8f38b5b8a3cb23a2c28c58d85e29201b1719cd53327465a8d33352cd94b9b1fa",
+      "bytes": 1691
     },
     {
       "path": "1/1.cpp",
-      "sha256": "cce503deb2887f1b475fd3d2e6423eb1781a769e195d244e8f62d08eacd3327c",
-      "bytes": 296
+      "sha256": "8224391441eb3103f03dfb3ada4834686ced64745c0145414f73105e5f81a53c",
+      "bytes": 293
     },
     {
       "path": "1/2.cpp",
-      "sha256": "73c4a3f186844010eb91e615d3aefb3e6cdb919d2e171d9732a9bd09ef54d8ac",
-      "bytes": 336
+      "sha256": "b0f457954be6d10d418e37de32c81cfe1b8120e743671435f802bf49309a5487",
+      "bytes": 333
     },
     {
       "path": "1/main.cpp",
-      "sha256": "cce503deb2887f1b475fd3d2e6423eb1781a769e195d244e8f62d08eacd3327c",
-      "bytes": 296
+      "sha256": "8224391441eb3103f03dfb3ada4834686ced64745c0145414f73105e5f81a53c",
+      "bytes": 293
     },
     {
       "path": "2/main.cpp",
@@ -49,49 +49,44 @@
       "bytes": 117
     },
     {
-      "path": "assignment/3.cpp",
+      "path": "components/3.cpp",
       "sha256": "465b66e4787075cc7cdb96a304bf137a42bb9043910ee6070b63406dc11bb3d2",
       "bytes": 220
     },
     {
-      "path": "assignment/ass.cpp",
+      "path": "components/double-integer.cpp",
       "sha256": "fc20c64bffc4a0660da5e40b6619c253abd90fa1f0ff9a1be9232d805d2b6234",
       "bytes": 227
     },
     {
-      "path": "assignment/main.cpp",
+      "path": "components/main.cpp",
       "sha256": "317acd9869e8a4c913725f0db9437e0b7e1aa94ddd6b3c96bc46c244d589af0a",
       "bytes": 265
     },
     {
-      "path": "assignment 2/main.cpp",
+      "path": "components 2/main.cpp",
       "sha256": "8d72d292a4590f64e728c1da91a76dc44c1cee40e0c151048b18cc204ce59cd7",
       "bytes": 117
     },
     {
-      "path": "assingment/main.cpp",
-      "sha256": "cce503deb2887f1b475fd3d2e6423eb1781a769e195d244e8f62d08eacd3327c",
-      "bytes": 296
-    },
-    {
-      "path": "f2023376179/main.cpp",
-      "sha256": "2c50208e35aa10388298266eac84e75e9992a0c05e783624c4e11c9787d3fd17",
-      "bytes": 119
-    },
-    {
-      "path": "lab/main.cpp",
+      "path": "examples/main.cpp",
       "sha256": "5af252836422c300f2f8c19028b59ab4af75264e60d19a31c0689190758c6790",
       "bytes": 134
     },
     {
+      "path": "imad/main.cpp",
+      "sha256": "2c50208e35aa10388298266eac84e75e9992a0c05e783624c4e11c9787d3fd17",
+      "bytes": 119
+    },
+    {
       "path": "pharmacy/main.cpp",
-      "sha256": "d26c212186b428a6767ca08e6a7cb3ce71d972b77768be3da0f43412055baef9",
-      "bytes": 785
+      "sha256": "c5e428e73de9d701cb187d316d7e8b40994e21c101b3c19941928a466018eb87",
+      "bytes": 782
     },
     {
       "path": "pharmacy/pharmacy code.docx.md",
-      "sha256": "7cdad99ebac5b55fb5ebfd9ce797e4187d391944d39f423b281047f56083947e",
-      "bytes": 2455
+      "sha256": "04191ab9d7fc6053a6c3fdb11e35c06eb5682637ced57844eb76912ad7149c58",
+      "bytes": 2627
     },
     {
       "path": "practice/main.cpp",
@@ -99,24 +94,29 @@
       "bytes": 164
     },
     {
+      "path": "regional-sales/main.cpp",
+      "sha256": "8224391441eb3103f03dfb3ada4834686ced64745c0145414f73105e5f81a53c",
+      "bytes": 293
+    },
+    {
       "path": "tests/test_parking_capacity.cpp",
-      "sha256": "1d6cfa67779bed344fe36c77baa913a42d820f9f5e1b26e7676301e8c23384a8",
-      "bytes": 878
+      "sha256": "315e8d5c07bf09ffcec2aa4f7717b62e32de978d2e7694d6d46e870de8fcab26",
+      "bytes": 897
     },
     {
       "path": "tests/test_queue_array.cpp",
-      "sha256": "c11d96db026004197b844c65aa43efcc50bc8400531166a69e89e9ef75dcba5f",
-      "bytes": 758
+      "sha256": "4585c32950fed9c0a1ee6aef2b106b90c91af05e3d64b1d099549c4311fd6b80",
+      "bytes": 775
     },
     {
       "path": "tests/test_queue_stacks.cpp",
-      "sha256": "502f5631c0323ae38c1b3bd3cc79ece5ed9fbd2b03c739cbeb06de6428d7b5e8",
-      "bytes": 631
+      "sha256": "629d0d214101bfcfa4dc7dcd67f8fb0d2f895948dcb5751c1b2c082c957cba73",
+      "bytes": 641
     },
     {
       "path": "tests/test_stack.cpp",
-      "sha256": "8db38297e1d8c6260c28e0b8a3566c1622dfa8fcfedb9b97578dd1a4937cc140",
-      "bytes": 646
+      "sha256": "b9e697172af05197ea9aa9948679b2498215ffc6a57ed8f82ead9ceb7913103b",
+      "bytes": 657
     },
     {
       "path": "additional_sources/ds/#include iostream.txt",
@@ -125,188 +125,148 @@
     },
     {
       "path": "additional_sources/ds/DSA PROJECT.txt",
-      "sha256": "130f76f7b0c16b8dcbc0e79ff8f5ac50b2a16e5fde1739d6e57b219d3d1a28cc",
-      "bytes": 10759
+      "sha256": "f28386ac2cd7bbe2d7e2691a7b87c7780695137dd0ebb492735bb2c624360aff",
+      "bytes": 10766
     },
     {
-      "path": "additional_sources/pf/Programing Assignment.docx.md",
-      "sha256": "7f75aab091e1ae94d1f9ea6f789c451e8c8c0d780af931e1c797f253fc81e07c",
-      "bytes": 4884
+      "path": "additional_sources/pf/Programing components.docx.md",
+      "sha256": "f2c7d1835cefad3112054387cc4315334a9f3d0dd4a9230cdb52f572f2f6b915",
+      "bytes": 5345
     },
     {
-      "path": "additional_sources/pf/Programing fundamentals assignment 3.docx.md",
-      "sha256": "fefe68c32962dd425b4ef5317b46e24849b6febe257276cdc13f045f2c6f66dd",
-      "bytes": 3213
+      "path": "additional_sources/pf/Programing fundamentals components 3.docx.md",
+      "sha256": "18f848acb63729ee3f3e02e53313778282b903199447d99d7f3a669c99634be5",
+      "bytes": 3531
     },
     {
-      "path": "additional_sources/pf/Programing fundamentals assignment 5.docx.md",
-      "sha256": "5c8ee2f6aeb3eef46b9fed0de99b34debfb64f09d67b7ddd1a7c54465055b75b",
-      "bytes": 3640
+      "path": "additional_sources/pf/Programing fundamentals components 5.docx.md",
+      "sha256": "ca85829a2eaacccdb05b0495c215f157599b4ff3c92c6e7737085434459a6621",
+      "bytes": 3978
     },
     {
-      "path": "additional_sources/pf/lab/f2023376179.docx.md",
-      "sha256": "2974a505b5c344063d2c622d5e0cb84dc34b1ce3ff613a3447847fd1b11e824e",
-      "bytes": 11926
+      "path": "additional_sources/pf/examples/pf task.docx.md",
+      "sha256": "cfdb6a63e32eb4bab80d7e4257e19716b990f415b5f7e4644ab9a215bd623202",
+      "bytes": 792
     },
     {
-      "path": "additional_sources/pf/lab/LAB MANUAL 1-Code_Blocks.docx.md",
-      "sha256": "a68fb6bc5295884f61cd0a35ae9604c33ecebc342d0320b9d3926dc73a4968ff",
-      "bytes": 10523
+      "path": "additional_sources/pf/examples/task.docx.md",
+      "sha256": "5af504992ad4188c42876ef279ad8351213f51d7edffcb91960e6444c3e36fdc",
+      "bytes": 847
     },
     {
-      "path": "additional_sources/pf/lab/LAB MANUAL 10.1.docx.md",
-      "sha256": "2b100a4d8ba182f92ca42101ba9c7088a24f4c41fae549e31c21f7ca8db3df21",
-      "bytes": 5935
+      "path": "additional_sources/pf/examples/examples 3/main.cpp",
+      "sha256": "1bf8c02cb1d66eade9f1b7cad0dc6dd8115ac3982df04c41022d9bdcecfd27c9",
+      "bytes": 833
     },
     {
-      "path": "additional_sources/pf/lab/LAB MANUAL 3.docx.md",
-      "sha256": "5f7edba5f8e854c0ae3355f8120ad2248c2bf07552c79f19874ed8e0295d11bc",
-      "bytes": 13067
+      "path": "additional_sources/pf/examples/imad/main.cpp",
+      "sha256": "ff83359fb71bbf3a97f14b478e35544883357e9dd414545178b1c1260e252131",
+      "bytes": 379
     },
     {
-      "path": "additional_sources/pf/lab/LAB MANUAL 5.docx.md",
-      "sha256": "975627e901759861b9feb0fcccb31cc8d008ce6b5132e83536962cff8b326ace",
-      "bytes": 19463
+      "path": "additional_sources/pf/examples/loops/main.cpp",
+      "sha256": "45c221b551c429c5e7eeb0a97be11104f98fe1bd37a145ac830f97d08331421f",
+      "bytes": 175
     },
     {
-      "path": "additional_sources/pf/lab/lab task 10.docx.md",
-      "sha256": "c9957b4b588ee3cab1833b9c976708a3871aee148015de0556114ee32847728c",
-      "bytes": 5882
+      "path": "additional_sources/pf/examples/practice/main.cpp",
+      "sha256": "9be4c40b13b8a27831b649d95567999d1ba651d78432f1527b30e6130cced3e6",
+      "bytes": 388
     },
     {
-      "path": "additional_sources/pf/lab/lab task.docx.md",
-      "sha256": "c98ca45184e00b80163b76ee99a16c0f0e8ba0261032b2ee47fff15f3233076e",
-      "bytes": 5909
+      "path": "additional_sources/pf/examples/practice/swictch.cpp",
+      "sha256": "9be4c40b13b8a27831b649d95567999d1ba651d78432f1527b30e6130cced3e6",
+      "bytes": 388
     },
     {
-      "path": "additional_sources/pf/lab/manual 4.docx.md",
-      "sha256": "0656d9ffafee4ebf8b0015706adf72d24fb6627a3d3b11ec8c1b69afd7bc5f59",
-      "bytes": 19146
+      "path": "additional_sources/pf/examples/practice/array/main.cpp",
+      "sha256": "aba474cad35eeb72f0c6a025004431a9597a1c29e5242fd1d310b13a92f3e99f",
+      "bytes": 438
     },
     {
-      "path": "additional_sources/pf/lab/pf task.docx.md",
-      "sha256": "ced63124ba326cc561dabdd98a3a621df11c5cca0ad1bf9a8bf31a6fb5d08852",
-      "bytes": 728
+      "path": "additional_sources/pf/examples/practice/calendar-day/main.cpp",
+      "sha256": "645fb92012f93f42d6a4027996c246cd1ce4972884e8a31a02cf99243e9fc17f",
+      "bytes": 838
     },
     {
-      "path": "additional_sources/pf/lab/task.docx.md",
-      "sha256": "6ded163d31b70f19734477816af0570a903f2aa776f3d1684cceaf75dad22548",
-      "bytes": 781
+      "path": "additional_sources/pf/examples/practice/integer-arithmetic/main.cpp",
+      "sha256": "a7645df673ab95c2d8777f12b741d28071ddf8293abc4dbab3a3be5b2cd12505",
+      "bytes": 469
     },
     {
-      "path": "additional_sources/pf/lab/f2023376179/main.cpp",
-      "sha256": "3b600350a8477e98a3bc155e0f9d8625fab98e75c828389f75a7f05ad27fd0e4",
-      "bytes": 382
+      "path": "additional_sources/pf/examples/practice/item-cost/main.cpp",
+      "sha256": "2c25a06481818370ef66294261a0a3905fe448d6cf721ffa9d8e14a4d1c555e8",
+      "bytes": 471
     },
     {
-      "path": "additional_sources/pf/lab/lab 3/main.cpp",
-      "sha256": "384785887b9af3eb1e2f9c84bc562cc09adf7dd30026afc523cff40730f2bf7c",
-      "bytes": 836
+      "path": "additional_sources/pf/examples/practice/loopx learning/main.cpp",
+      "sha256": "83ce46fb622210df0d537715140185cc52b0e9119a727d2b6b219ac635fafeff",
+      "bytes": 315
     },
     {
-      "path": "additional_sources/pf/lab/loops/main.cpp",
-      "sha256": "58a7de49c3bd1952aef5b41bc0ee3a652b92a6c989faff06f002fd71f98b2bd9",
-      "bytes": 178
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/main.cpp",
-      "sha256": "6ddf9f1f09afec6f87146d5a4e4b38a6356d7f399f202db9e563e65e12610d41",
-      "bytes": 391
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/swictch.cpp",
-      "sha256": "6ddf9f1f09afec6f87146d5a4e4b38a6356d7f399f202db9e563e65e12610d41",
-      "bytes": 391
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/aiisgnment 2/main.cpp",
-      "sha256": "5845d07229cbeffa86e56be903f5ef03873af59f4135f2e611141bbad65df7e8",
-      "bytes": 506
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/array/main.cpp",
-      "sha256": "b3fd2f8946da0e74a4f4683e14a8402496e6909c04dde1d5a7570365b808abb6",
-      "bytes": 441
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/assg5/main.cpp",
-      "sha256": "a26b096cc8e744c9f9a63203c4c19a532011df8cb8ed0f3a6959764bde95240e",
-      "bytes": 841
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/assig 3/main.cpp",
-      "sha256": "89fb5cdbd2cd2d550b9a73779cfe43509d16063222cc3cf26c38a73536abb246",
-      "bytes": 472
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/assig2/main.cpp",
-      "sha256": "45e2e96fa7740dc66ebd8d4d22122e0725d7f6328b338ff3ae1fe7ccec129407",
-      "bytes": 474
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/assig3/main.cpp",
-      "sha256": "d7219da56cc6b50641fe23dfcaf79d290265b6803cbd0b3be6d453041a5e68d9",
-      "bytes": 440
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/loopx learning/main.cpp",
-      "sha256": "b4560de8864d67e2ab0630cd9436ac57a2530c2a79cbad32534a71cc68fb24fb",
-      "bytes": 318
-    },
-    {
-      "path": "additional_sources/pf/lab/practice/manual 5/main.cpp",
+      "path": "additional_sources/pf/examples/practice/manual 5/main.cpp",
       "sha256": "233c23d7cea930dcc031b87c9bc13b3d838faeef25c87bf3b72e9e52263010ce",
       "bytes": 322
     },
     {
-      "path": "additional_sources/pf/lab/practice/pf lab tssk/main.cpp",
-      "sha256": "b105338c4458da52824027492851ed1e84b848ef256c6b71abb3d41b1fb12f2d",
-      "bytes": 983
+      "path": "additional_sources/pf/examples/practice/numeric-patterns/main.cpp",
+      "sha256": "d6a3bbf3db37ce43e7802b6f076afc629cca44d6e8e4ab9a5946f133d9788e3d",
+      "bytes": 503
     },
     {
-      "path": "additional_sources/pf/lab/practice/q 1/main.cpp",
-      "sha256": "66719c5a2c080f1d1190fc0fda8bd3b32ed9348af57022e58e2a789c9cabc53e",
-      "bytes": 408
+      "path": "additional_sources/pf/examples/practice/pf examples tssk/main.cpp",
+      "sha256": "f4da520079ac148a8ff5e1fce5f0b92293a534e591fa186897f3f00eab8840fc",
+      "bytes": 980
     },
     {
-      "path": "additional_sources/pf/lab/practice/switch/main.cpp",
-      "sha256": "c9b6fff7b48d2787be4aaf5647107a55c89e19fee825eb4a0e94c63d93a739fe",
-      "bytes": 319
+      "path": "additional_sources/pf/examples/practice/point-distance/main.cpp",
+      "sha256": "d7219da56cc6b50641fe23dfcaf79d290265b6803cbd0b3be6d453041a5e68d9",
+      "bytes": 440
+    },
+    {
+      "path": "additional_sources/pf/examples/practice/q 1/main.cpp",
+      "sha256": "8ec8a62b48f403a65ebacf75fd5b73c71f7699dcce624bb695f918e69f83fafb",
+      "bytes": 405
+    },
+    {
+      "path": "additional_sources/pf/examples/practice/switch/main.cpp",
+      "sha256": "0ca93a34c849fa8b55f53733867a2a32addafbf723f57bd165c54deccfa889ba",
+      "bytes": 316
+    },
+    {
+      "path": "additional_sources/ds/examples/linear search.cpp",
+      "sha256": "b7d4ca53305cbf7ea867f31c28a2beff3667e51fa09cea293c3b98de1c41e629",
+      "bytes": 571
+    },
+    {
+      "path": "additional_sources/ds/examples/link list d.cpp",
+      "sha256": "c4fff113d4282289958359eba10849011427c06b00e4781a903a5efa4911b26d",
+      "bytes": 1208
+    },
+    {
+      "path": "additional_sources/ds/examples/link list s.cpp",
+      "sha256": "953af1f01b2d192f462d46bce4c23a22be5c77b1612fd4c7ec9364bce0f28a31",
+      "bytes": 1704
+    },
+    {
+      "path": "additional_sources/ds/examples/link list.cpp",
+      "sha256": "7d2cb30f85903f6ab74241b943438d23b914a9dc15b0d44483381aebba6a3f92",
+      "bytes": 850
+    },
+    {
+      "path": "additional_sources/ds/examples/main.cpp",
+      "sha256": "409f0cee3aaa8458f401176e0c136b5f15b0a7df14102d9ad6d9bd5101fc554d",
+      "bytes": 4321
+    },
+    {
+      "path": "additional_sources/ds/examples/practice.cpp",
+      "sha256": "c4a0cbbc319f211c7f53595c938a1a1044ac9b0a76fb0ecafacc2e7fba0c4350",
+      "bytes": 532
     },
     {
       "path": "additional_sources/ds/jhgukyhu/main.cpp",
       "sha256": "8d72d292a4590f64e728c1da91a76dc44c1cee40e0c151048b18cc204ce59cd7",
       "bytes": 117
-    },
-    {
-      "path": "additional_sources/ds/lab/linear search.cpp",
-      "sha256": "b7d4ca53305cbf7ea867f31c28a2beff3667e51fa09cea293c3b98de1c41e629",
-      "bytes": 571
-    },
-    {
-      "path": "additional_sources/ds/lab/link list d.cpp",
-      "sha256": "48bf1f14073dca96a0dc58eac02e245cd591e68c51bda9a13c60945609f4c64b",
-      "bytes": 1225
-    },
-    {
-      "path": "additional_sources/ds/lab/link list s.cpp",
-      "sha256": "4a176e90e84eb977a93e42aa506b72404152e8f56dc44eca79f2ea03375b5129",
-      "bytes": 1731
-    },
-    {
-      "path": "additional_sources/ds/lab/link list.cpp",
-      "sha256": "b1c49b57786c4509f875557c92dfd76c6aaf84781b286e2f7f6f08415491bcd2",
-      "bytes": 865
-    },
-    {
-      "path": "additional_sources/ds/lab/main.cpp",
-      "sha256": "409f0cee3aaa8458f401176e0c136b5f15b0a7df14102d9ad6d9bd5101fc554d",
-      "bytes": 4321
-    },
-    {
-      "path": "additional_sources/ds/lab/practice.cpp",
-      "sha256": "c4a0cbbc319f211c7f53595c938a1a1044ac9b0a76fb0ecafacc2e7fba0c4350",
-      "bytes": 532
     },
     {
       "path": "additional_sources/ds/practice/avl trees.cpp",
@@ -325,8 +285,8 @@
     },
     {
       "path": "additional_sources/ds/practice/doubly.cpp",
-      "sha256": "c7868475f8434263bcf4dc883e482c1132592f9ba40fc9331f9f169cef7a09b4",
-      "bytes": 1506
+      "sha256": "27b000aec590ef3989db06a83777b87539f91bfd19e052206755a95f415645fb",
+      "bytes": 1503
     },
     {
       "path": "additional_sources/ds/practice/dsa pro comp.cpp",
@@ -339,14 +299,14 @@
       "bytes": 5372
     },
     {
-      "path": "additional_sources/ds/practice/dsa theory lab task.cpp",
+      "path": "additional_sources/ds/practice/dsa theory examples task.cpp",
       "sha256": "379a4b980d17584bfca3c168c59acf9d699a421a1b9352fbd818c5e94236df54",
       "bytes": 3524
     },
     {
       "path": "additional_sources/ds/practice/queue with array.cpp",
-      "sha256": "0ca0224d0add45bd31bf0ff4eb0ed300eb5ee532ed96efd0266fdea0b0491467",
-      "bytes": 718
+      "sha256": "577afdfd4e66869f840cbbc2df61b8ef9ffa318dd53b29f414a2d52fa33fa88d",
+      "bytes": 715
     },
     {
       "path": "additional_sources/ds/practice/queue with stack.cpp",
@@ -355,8 +315,8 @@
     },
     {
       "path": "additional_sources/ds/practice/singly.cpp",
-      "sha256": "563b1d201aa73581d34cfc526188967f47aa14c1bd291b422b941d6b76b47411",
-      "bytes": 998
+      "sha256": "324aade4ac7dc8859d2ca97b63fcb59e4ef11d5eb0a8d9f73016f85c942348ae",
+      "bytes": 995
     },
     {
       "path": "additional_sources/ds/practice/stack with array.cpp",
@@ -364,62 +324,62 @@
       "bytes": 1185
     },
     {
-      "path": "additional_sources/ds/tasks/Dsa lab task 11.docx.md",
-      "sha256": "16ce46c64a2acb95e2c8bf58e91eb08337cd60cef8665db9528105b2265edd26",
-      "bytes": 1492
+      "path": "additional_sources/ds/tasks/Dsa examples task 11.docx.md",
+      "sha256": "010bc10c4b2ed7bf20643a1d865b031969ec168778433a88f5b9704aea82cf76",
+      "bytes": 1642
     },
     {
       "path": "additional_sources/ds/tasks/task 3/imad dsa1.docx.md",
-      "sha256": "71aeb348e00b6f2325a8c43c1911866103954ea8d1e72aff7b90ade5188e5eaa",
-      "bytes": 3578
+      "sha256": "69c8a9db2079a4b40a314c11e0132f1e0a3a2cc89809ff2d12988110815b5a5b",
+      "bytes": 3929
     },
     {
       "path": "additional_sources/ds/tasks/tasksss/task 08.docx.md",
-      "sha256": "9b9821343cb0f99049cb2409930c0ca4f883a42d20c6e46f5f959874860653cc",
-      "bytes": 3319
+      "sha256": "477c265435e829e945e3b87993e83a4a7c6102de1f1b3b0374b839a05d368337",
+      "bytes": 3581
     },
     {
       "path": "additional_sources/ds/tasks/tasksss/Task 5.docx.md",
-      "sha256": "3e0c1648d3945244752f1cea0a8e3cfd10c435e329be9a14c152347ce5a0fee7",
-      "bytes": 3082
+      "sha256": "e3f2347e24d761c0862c7a76ec84759c12a17989322674a757658522209502b9",
+      "bytes": 3317
     },
     {
-      "path": "additional_sources/ds/lab/4d/main.cpp",
-      "sha256": "99ee25b0b4f890c604136b1327ea5a122a509f03ba561254426d97fd271f2f34",
-      "bytes": 3469
+      "path": "additional_sources/ds/examples/4d/main.cpp",
+      "sha256": "c3f9c44bec36c48c833d9dd214d9a0d2200c578f34f57210d3ab8bba85ea4353",
+      "bytes": 3439
     },
     {
-      "path": "additional_sources/ds/lab/evenodd/main.cpp",
+      "path": "additional_sources/ds/examples/evenodd/main.cpp",
       "sha256": "71c668bc9a80347d35c696ca4a3e08ae610d6a6fdd3203ebbb9d3496cff2054c",
       "bytes": 579
     },
     {
-      "path": "additional_sources/ds/lab/maxmin/main.cpp",
+      "path": "additional_sources/ds/examples/maxmin/main.cpp",
       "sha256": "e43aaddabd5b39049bf6d7df63fd54cb94f031473e1fa654ed43f3fae3bf34e5",
       "bytes": 478
     },
     {
-      "path": "additional_sources/ds/lab/maxmin/maxminn.cpp",
+      "path": "additional_sources/ds/examples/maxmin/maxminn.cpp",
       "sha256": "e43aaddabd5b39049bf6d7df63fd54cb94f031473e1fa654ed43f3fae3bf34e5",
       "bytes": 478
     },
     {
-      "path": "additional_sources/ds/lab/menu link list/link list d.cpp",
-      "sha256": "0d2daec5e61d67c9abf565743c82af97e0cb0349fcad704915bc9915f65bd9e8",
-      "bytes": 1000
+      "path": "additional_sources/ds/examples/menu link list/link list d.cpp",
+      "sha256": "202e5f9b8dea53e418403f3e230844be4f07347a2c2db3c3263a85a1e6207dc1",
+      "bytes": 997
     },
     {
-      "path": "additional_sources/ds/lab/tasks/task 1/even odd.cpp",
+      "path": "additional_sources/ds/examples/tasks/task 1/even odd.cpp",
       "sha256": "71c668bc9a80347d35c696ca4a3e08ae610d6a6fdd3203ebbb9d3496cff2054c",
       "bytes": 579
     },
     {
-      "path": "additional_sources/ds/lab/tasks/task 1/maxminn.cpp",
+      "path": "additional_sources/ds/examples/tasks/task 1/maxminn.cpp",
       "sha256": "e43aaddabd5b39049bf6d7df63fd54cb94f031473e1fa654ed43f3fae3bf34e5",
       "bytes": 478
     },
     {
-      "path": "additional_sources/ds/lab/tasks/task 1/unique number.cpp",
+      "path": "additional_sources/ds/examples/tasks/task 1/unique number.cpp",
       "sha256": "0a926e6b78d1d3b0989f69694177c3b2c4a9b1bc972ac4a6e2cb50eda24015c0",
       "bytes": 570
     }
